@@ -1,0 +1,11 @@
+Order ID,Customer,City,Category,Units,Unit Price,Order Date
+1001,Acme Ltd,Almaty,electronics,2,120,2026-08-01
+1002,Blue Market,Astana,Electronics,1,250,2026-08-02
+1003,Acme Ltd,Almaty,electronics,2,120,2026-08-01
+1004,Green Shop,Shymkent,home,5,35,2026-08-03
+1005,Blue Market,Astana, electronics ,3,80,2026-08-04
+1006,North Cafe,Karaganda,Food,10,4.5,2026-08-04
+1007,Green Shop,Shymkent,Home,2,70,2026-08-05
+1008,North Cafe,Karaganda,food,8,4.5,2026-08-06
+1009,City Books,Almaty,Books,4,18,2026-08-06
+1010,City Books,Almaty,books,2,22,2026-08-07
