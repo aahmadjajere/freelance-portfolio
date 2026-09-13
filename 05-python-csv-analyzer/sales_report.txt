@@ -1,0 +1,9 @@
+SALES SUMMARY
+========================================
+Total units sold: 56
+Total revenue: $239.00
+Top product by revenue: Desk Lamp
+
+Revenue by category:
+- Home: $142.00
+- Stationery: $97.00
